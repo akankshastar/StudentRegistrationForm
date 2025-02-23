@@ -10,7 +10,7 @@
 <div style="text-align: center;">
 <h1>Student Registration Form</h1>
 <form action="StudentServlet" method="post">
-   <table style="width: 80%">
+   <table style="width: 80%;">
     <tr>
      <td>First Name</td>
      <td><input type="text" name="firstName" /></td>
