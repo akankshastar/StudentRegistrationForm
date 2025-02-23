@@ -1,5 +1,7 @@
 # StudentRegistrationForm
 🟢 Components of the Form
+
+
 1️⃣ Form Fields (User Inputs)
 
 First Name
@@ -8,9 +10,13 @@ Username
 Password (Hidden for security)
 Address
 Contact Number
+
+
 2️⃣ Submit Button
 
 Sends the entered details to the StudentServlet.
+
+
 3️⃣ Backend Processing (Servlet)
 
 Takes the form data.
